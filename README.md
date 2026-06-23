@@ -2,7 +2,7 @@
 
 A serverless ebook landing page with a fully functional lead capture system built on AWS. Users visit the site, submit a contact form, and their details are emailed to the business owner and stored in a database — all without managing a single server.
 
-![Architecture Diagram](project-diagram.png)
+![Architecture Diagram](https://github.com/Shalha-Mucha18/serverless-ebook-funnel/blob/main/project-diagram.png)
 
 ---
 
